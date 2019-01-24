@@ -24,8 +24,8 @@ app.get('/news',function(req,res){
 })
 
 //2.监听端口
-server.listen(8000,'127.0.0.1', function () {
-    console.log('app run at 127.0.0.1:8000')
+server.listen(3000,'127.0.0.1', function () {
+    console.log('app run at 127.0.0.1:3000')
 });   /*改ip*/
 
 
