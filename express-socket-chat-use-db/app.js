@@ -1,8 +1,3 @@
-/**
- * Created by Administrator on 2017/10/27 0027.
- */
-
-
 var express=require('express');
 
 var app=express();
